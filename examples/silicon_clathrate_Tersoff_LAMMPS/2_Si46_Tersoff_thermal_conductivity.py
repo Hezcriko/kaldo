@@ -1,4 +1,4 @@
-# Example 4.2: Type I silicon clathrate, Tersoff potential 
+# Example: Type I silicon clathrate, Tersoff potential 
 # Computes: anharmonic properties and thermal conductivity for type I silicon clathrate (46 atoms per cell)
 # Uses: LAMMPS
 # External files: forcefields/Si.tersoff
