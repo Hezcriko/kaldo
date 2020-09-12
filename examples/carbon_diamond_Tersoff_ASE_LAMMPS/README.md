@@ -15,6 +15,7 @@ make mpi mode=shlib
 ```
 - After properly install kALDo, run the following line in command window to link LAMMPS with Python and ASE:
 ```bash
+cd path/to/lammps/src
 make install-python				
 ```
 
