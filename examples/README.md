@@ -8,7 +8,7 @@ make yes-manybody
 make yes-molecule
 make mpi mode=shlib
 ```
-- After properly installed kALDo, run the following line in command window to link LAMMPS with Python and ASE:
+- After properly install kALDo, run the following line in command window to link LAMMPS with Python and ASE:
 ```bash
 make install-python				
 ```
