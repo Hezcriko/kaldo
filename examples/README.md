@@ -42,5 +42,5 @@ force constants from [ASE and Quantum ESPRESSO](https://wiki.fysik.dtu.dk/ase/as
 This example illustrates how to perform thermal transport simulation for a bulk silicon (2 atoms per cell) system using hiPhive to extract 
 force constants from [ASE and LAMMPS](https://wiki.fysik.dtu.dk/ase/_modules/ase/calculators/lammpslib.html) reference force calculations.
 - `silicon_clathrate_Tersoff_LAMMPS:`
-This example illustrates how to perform thermal transport simulation for a type I clathrate (46 atoms per cell) system using[LAMMPS USER-PHONON 
+This example illustrates how to perform thermal transport simulation for a type I clathrate (46 atoms per cell) system using [LAMMPS USER-PHONON 
 package](https://lammps.sandia.gov/doc/Packages_details.html#pkg-user-phonon) as force calculator.
