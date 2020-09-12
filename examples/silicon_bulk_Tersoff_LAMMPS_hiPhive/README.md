@@ -13,7 +13,7 @@ External files required:
 
     2. Set up StructureContainer with 2nd and 3rd order cutoffs of 4.0 angstrom.
 
-    3. Develop fcp by fitting reference structures and calculated force with least square methods.
+    3. Develop force constant potential by fitting reference structures and calculated force with least square methods.
 
     4. Extract force constants from force constant potential 
 
