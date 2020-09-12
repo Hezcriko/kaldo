@@ -1,7 +1,7 @@
 # Examples
 This collection of examples shows how to perform thermal transport with kALDo for cystal and amorphous
 systems. Before running simulations with kALDo, download the following third-party packages:  [Quantum ESPRESSO](https://www.quantum-espresso.org/), [LAMMPS](https://lammps.sandia.gov/download.html), [hiPhive](https://hiphive.materialsmodeling.org/)
-- To calculate 2<sup>nd</sup> and 3<sup>rd</sup> order force constants with LAMMPS and ASE, please run the following lines in the command window:
+- To calculate 2<sup>nd</sup> and 3<sup>rd</sup> order force constants with LAMMPS and ASE, after downloading [LAMMPS](https://lammps.sandia.gov/),compile LAMMPS with shlib mode:
 ```bash
 cd path/to/lammps/src
 make yes-manybody
