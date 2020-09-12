@@ -37,10 +37,10 @@ This example illustrates how to perform thermal transport simulation for an amor
 package](https://lammps.sandia.gov/doc/Packages_details.html#pkg-user-phonon) as force calculator.
 - `carbon_diamond_Tersoff_ASE_LAMMPS:`
 This example illustrates how to perform thermal transport simulation for a carbon diamond (2 atoms per cell) system using [ASE and LAMMPS](https://wiki.fysik.dtu.dk/ase/_modules/ase/calculators/lammpslib.html) as force calculator.
-- `silicon_bulk_LDA_QE_hiPhive:`
+- `silicon_bulk_LDA_ASE_QE_hiPhive:`
 This example illustrates how to perform thermal transport simulation for a bulk silicon (2 atoms per cell) system using hiPhive to extract 
 force constants from [ASE and Quantum ESPRESSO](https://wiki.fysik.dtu.dk/ase/ase/calculators/espresso.html) reference force calculations.
-- `silicon_bulk_Tersoff_LAMMPS_hiPhive:`
+- `silicon_bulk_Tersoff_ASE_LAMMPS_hiPhive:`
 This example illustrates how to perform thermal transport simulation for a bulk silicon (2 atoms per cell) system using hiPhive to extract 
 force constants from [ASE and LAMMPS](https://wiki.fysik.dtu.dk/ase/_modules/ase/calculators/lammpslib.html) reference force calculations.
 - `silicon_clathrate_Tersoff_LAMMPS:`
