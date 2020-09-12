@@ -1,6 +1,6 @@
 # get_reference.sh is used to 
 # obtain reference calculations
-#  for example 1
+#  for example carbon_diamond_Tersoff_ASE_LAMMPS
 
 # Fetch precalculated force constants folder from remote
 wget http://sophe.ucdavis.edu/structures/reference/updated_example/carbon_diamond_Tersoff_ASE_LAMMPS.tar.gz
