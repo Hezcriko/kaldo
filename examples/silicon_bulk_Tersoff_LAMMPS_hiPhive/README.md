@@ -1,4 +1,4 @@
-# `silicon_bulk_Tersoff_LAMMPS_hiPhive`
+# `silicon_bulk_Tersoff_ASE_LAMMPS_hiPhive`
 
 Example silicon_bulk_Tersoff_LAMMPS_hiPhive illustrates how to perform thermal transport simulation for a bulk silicon (2 atoms per cell) system using [hiPhive](https://hiphive.materialsmodeling.org/) to extract 
 force constants from [ASE and LAMMPS](https://wiki.fysik.dtu.dk/ase/_modules/ase/calculators/lammpslib.html) reference force calculations.
