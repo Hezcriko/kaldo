@@ -10,6 +10,7 @@ make mpi mode=shlib
 ```
 - After properly install kALDo, run the following line in command window to link LAMMPS with Python and ASE:
 ```bash
+cd path/to/lammps/src
 make install-python				
 ```
 - To calculate 2<sup>nd</sup> and 3<sup>rd</sup>  force constants with Quantum ESPRESSO and ASE, set the environment variable as follow:
