@@ -29,7 +29,7 @@ forceconstants = ForceConstants.from_folder('hiPhive_si_bulk', supercell=[3, 3, 
 #            for python numpy array and 'memory' for quick calculations, no data stored)
 
 # Define the k-point mesh using 'kpts' parameter
-k_points = 7  # 'k_points'=7 k points in each direction
+k_points = 5  # 'k_points'=5 k points in each direction
 phonons_config = {'kpts': [k_points, k_points, k_points],
                   'is_classic': False,
                   'temperature': 300,  # 'temperature'=300K
