@@ -1,6 +1,6 @@
 # get_reference.sh is used to 
 # obtain reference calculations
-# for example 3
+# for example silicon_bulk_LDA_QE_hiPhive
 
 # Fetch precalculated force constants folder from remote
 wget http://sophe.ucdavis.edu/structures/reference/updated_example/silicon_bulk_LDA_QE_hiPhive.tar.gz
