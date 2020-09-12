@@ -60,5 +60,5 @@ python 1_Si_hiPhive_generate_fcs.py
 python 2_Si_hiPhive_harmonic_properties.py
 python 3_Si_hiPhive_thermal_conductivity.py
 ```
-- To view figures generated during simulations, navigate to this folder: ***plots/***
+- To view figures generated during simulations, navigate to this folder: ***plots/7_7_7/***
 - To access data computed during simulations, navigate to this folder: ***ALD_si_bulk*** 
