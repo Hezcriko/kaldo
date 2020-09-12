@@ -28,7 +28,7 @@ chmod +x get_precalculated_fc.sh
 chmod +x get_reference.sh
 ./get_reference.sh
 ```
-- Precalculated force constants and reference calculations can be accessed in [here](http://sophe.ucdavis.edu/structures/)
+- Precalculated force constant and reference calculation files can be accessed in [here](http://sophe.ucdavis.edu/structures/)
 ## List and content of examples folder
 For each example, more detailed information is provided by the README.md file contained in the corresponding directory.
 - `amorphous_silicon_Tersoff_LAMMPS:`
