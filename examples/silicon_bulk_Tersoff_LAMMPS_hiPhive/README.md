@@ -48,6 +48,7 @@ make mpi mode=shlib
 ```
 - After properly installed κALDo, run the following line in command window to link LAMMPS with Python and ASE:
 ```bash
+cd path/to/lammps/src
 make install-python				
 ```  
 - To extract 2<sup>nd</sup> and 3<sup>rd</sup> force constants from force constant potentials, navigate to this directory and execute:
