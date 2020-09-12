@@ -1,6 +1,6 @@
 # get_reference.sh is used to 
 # obtain reference calculations
-# for example 4
+# for example silicon_clathrate_Tersoff_LAMMPS
 
 # Fetch precalculated force constants folder from remote
 wget http://sophe.ucdavis.edu/structures/reference/updated_example/silicon_clathrate_Tersoff_LAMMPS.tar.gz
