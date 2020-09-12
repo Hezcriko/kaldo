@@ -4,7 +4,7 @@ Example carbon_diamond_Tersoff_ASE_LAMMPS illustrates how to perform thermal tra
 diamond (2 atoms per cell) system using [ASE and LAMMPS](https://wiki.fysik.dtu.dk/ase/_modules/ase/calculators/lammpslib.html) as force calculator.
 
 External files required: 
-		       1) forcefields/C.tersoff
+		       1). forcefields/C.tersoff
 
 - To calculate 2<sup>nd</sup> and 3<sup>rd</sup> order force constants with LAMMPS and ASE, after downloading [LAMMPS](https://lammps.sandia.gov/),compile LAMMPS with shlib mode:
 ```bash
