@@ -6,6 +6,17 @@ diamond (2 atoms per cell) system using [ASE and LAMMPS](https://wiki.fysik.dtu.
 External files required: 
 		       1) forcefields/C.tersoff
 
+- To calculate 2<sup>nd</sup> and 3<sup>rd</sup> order force constants with LAMMPS and ASE, after downloading [LAMMPS](https://lammps.sandia.gov/),compile LAMMPS with shlib mode:
+```bash
+cd path/to/lammps/src
+make yes-manybody
+make yes-molecule
+make mpi mode=shlib
+```
+- After properly install kALDo, run the following line in command window to link LAMMPS with Python and ASE:
+```bash
+make install-python				
+```
 
 - 1_C_Tersoff_fc_and_harmonic_properties.py proceeds as follows:
 	
